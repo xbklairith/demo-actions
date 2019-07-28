@@ -1,0 +1,27 @@
+{
+  "name": "demo-actions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1",
+    "jest": "^24.8.0",
+    "moxios": "^0.4.0",
+    "supertest": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --forceExit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xbklairith/demo-actions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xbklairith/demo-actions/issues"
+  },
+  "homepage": "https://github.com/xbklairith/demo-actions#readme"
+}
